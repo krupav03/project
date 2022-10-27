@@ -1,0 +1,30 @@
+* {
+  cursor: pointer;
+  padding: 5px;
+}
+.bg-col {
+  background-color: #52575d;
+  height: 100vh;
+}
+.heading {
+  font-family: sans-serif;
+  font-size: 28px;
+  text-decoration: underline;
+  text-align: center;
+  font-weight: bold;
+}
+.input {
+  background-color: black;
+  color: white;
+}
+
+.App {
+  font-size: 24px;
+  color: white;
+  font-weight: 700;
+  background-color: #ddb6b6;
+}
+
+.icon {
+  width: 3rem;
+}
